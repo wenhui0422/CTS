@@ -1,0 +1,149 @@
+﻿@page "/newcandidate"
+@rendermode InteractiveServer
+@using System.ComponentModel.DataAnnotations
+@attribute [StreamRendering]
+@inject HttpClient Http
+
+<PageTitle>Candidate</PageTitle>
+
+<div class="row">
+    <div class="col-md-4">
+        <EditForm Model="Input" asp-route-returnUrl="" method="post" OnValidSubmit="AddNewCandidate" FormName="addCandidate">
+            <DataAnnotationsValidator />
+            <h2>Add a new candidate.</h2>
+            <hr />
+            <ValidationSummary class="text-danger" role="alert" />
+            <div class="form-floating mb-3">
+                <InputText @bind-Value="Input.FirstName" class="form-control" autocomplete="firstname" aria-required="true" placeholder="John" />
+                <label for="email">FirstName</label>
+                <ValidationMessage For="() => Input.FirstName" class="text-danger" />
+            </div>
+            <div class="form-floating mb-3">
+                <InputText @bind-Value="Input.LastName" class="form-control" autocomplete="lastname" aria-required="true" placeholder="Smith" />
+                <label for="email">LastName</label>
+                <ValidationMessage For="() => Input.LastName" class="text-danger" />
+            </div>
+            <div class="form-floating mb-3">
+                <InputText @bind-Value="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                <label for="email">Email</label>
+                <ValidationMessage For="() => Input.Email" class="text-danger" />
+            </div>
+            <div class="form-floating mb-3">
+                <InputText @bind-Value="Input.PhoneNumber" class="form-control" autocomplete="phonenumber" aria-required="true" placeholder="123-456-7890" />
+                <label for="email">PhoneNumber</label>
+                <ValidationMessage For="() => Input.PhoneNumber" class="text-danger" />
+            </div>
+            <div class="form-floating mb-3">
+                <InputText @bind-Value="Input.ZipCode" class="form-control" autocomplete="ZipCode" aria-required="true" placeholder="77384" />
+                <label for="email">ZipCode</label>
+                <ValidationMessage For="() => Input.ZipCode" class="text-danger" />
+            </div>
+            <div class="form-floating mb-2" style="display: flex;">
+                <button type="submit" class="w-50 btn btn-sm btn-primary">Add</button>
+                <button type="reset" class="w-50 btn btn-sm btn-warning">Clear</button>
+            </div>
+        </EditForm>
+    </div>
+    <div class="col-md-8">
+        @if (candidates == null)
+        {
+            <p><em>Loading...</em></p>
+        }
+        else
+        {
+
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>FullName</th>
+                        <th>Email</th>
+                        <th>PhoneNumber</th>
+                        <th>ZipCode</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var ca in candidates)
+                    {
+                        <tr>
+                            <td>@ca.FullName</td>
+                            <td>@ca.Email</td>
+                            <td>@ca.PhoneNumber</td>
+                            <td>@ca.ZipCode</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+</div>
+
+@code {
+
+    [SupplyParameterFromForm]
+    private InputModel Input { get; set; } = new();
+
+    private CandidateDTO[]? candidates;
+
+    protected override async Task OnInitializedAsync()
+    {
+        candidates = await Http.GetFromJsonAsync<CandidateDTO[]>("https://localhost:5001/api/Candidate/GetCandidates");
+    }
+
+    public async Task AddNewCandidate(EditContext editContext)
+    {
+        var candidate = new CandidateDTO
+            {
+                FirstName = Input.FirstName,
+                LastName = Input.LastName,
+                Email = Input.Email,
+                PhoneNumber = Input.PhoneNumber,
+                ZipCode = Input.ZipCode
+            };
+
+        var response = await Http.PostAsJsonAsync("https://localhost:5001/api/Candidate/CreateCandidate", candidate);
+
+        candidates = await Http.GetFromJsonAsync<CandidateDTO[]>("https://localhost:5001/api/Candidate/GetCandidates");
+    }
+
+    private void ClearTable()
+    {
+        candidates = null;
+    }
+
+    private sealed class InputModel
+    {
+        [Required]
+        [Display(Name = "FirstName")]
+        public string? FirstName { get; set; } = "";
+
+        [Required]
+        [Display(Name = "LastName")]
+        public string? LastName { get; set; } = "";
+
+        [Required]
+        [Display(Name = "PhoneNumber")]
+        public string? PhoneNumber { get; set; } = "";
+
+        [Required]
+        [StringLength(100, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
+        [Display(Name = "ZipCode")]
+        public string? ZipCode { get; set; } = "";
+
+        [Required]
+        [EmailAddress]
+        [Display(Name = "Email")]
+        public string? Email { get; set; } = "";
+    }
+
+    private class CandidateDTO
+    {
+        public int Id { get; set; }
+        public string? FullName => $"{FirstName} {LastName}";
+        public string? FirstName { get; set; }
+        public string LastName { get; set; } = string.Empty;
+        public string? Email { get; set; }
+        public string? PhoneNumber { get; set; }
+        public string? ZipCode { get; set; }
+    }
+}
+

@@ -1,0 +1,6 @@
+@cts_api_HostAddress = http://localhost:5248
+
+GET {{cts_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

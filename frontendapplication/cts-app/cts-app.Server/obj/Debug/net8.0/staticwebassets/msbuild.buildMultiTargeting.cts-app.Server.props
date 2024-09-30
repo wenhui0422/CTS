@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cts-app.Server.props" />
+</Project>

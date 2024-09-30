@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WHTK2xqXj8f7Tb1QblNOpZfaNGieSRZ46sXItNtMfIM=",
+  "Source": "cts-app.Server",
+  "BasePath": "_content/cts-app.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

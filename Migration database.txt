@@ -1,0 +1,3 @@
+
+PM> Add-Migration "Initial3" -c "ApplicationDbContext"
+PM> Update-Database "Initial3" 

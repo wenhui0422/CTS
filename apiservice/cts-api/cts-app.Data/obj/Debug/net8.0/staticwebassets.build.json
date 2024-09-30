@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "tcahn3ILcvb+t+KrRXrUwDVl5gefiXzhfyHoztzZzkw=",
+  "Source": "cts-app.Data",
+  "BasePath": "_content/cts-app.Data",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "cts-app.Data\\wwwroot",
+      "Source": "cts-app.Data",
+      "ContentRoot": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-api\\cts-app.Data\\wwwroot\\",
+      "BasePath": "_content/cts-app.Data",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-api\\cts-app.Data\\wwwroot\\app.css",
+      "SourceId": "cts-app.Data",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-api\\cts-app.Data\\wwwroot\\",
+      "BasePath": "_content/cts-app.Data",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}

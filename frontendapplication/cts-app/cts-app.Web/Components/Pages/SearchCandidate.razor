@@ -1,0 +1,151 @@
+﻿@page "/searchcandidates"
+@rendermode InteractiveServer
+@using System.ComponentModel.DataAnnotations
+@attribute [StreamRendering]
+@inject HttpClient Http
+
+<PageTitle>Candidate</PageTitle>
+
+<div class="row"> 
+    <div class="col-md-12">
+        <div class="col-md-12">
+            <h2><span>Search candidate.</span></h2>
+            <hr />
+            <EditForm Model="Input" asp-route-returnUrl="" method="post" OnValidSubmit="FindCandidate" FormName="findCandidate">
+                <div class="row mb-12">
+                    <div class="col-md-4">
+                        <label for="firstName">First Name</label>
+                        <InputText @bind-Value="Input.FirstName" id="firstName" class="form-control" />
+                    </div>
+                    <div class="col-md-4">
+                        <label for="lastName">Last Name</label>
+                        <InputText @bind-Value="Input.LastName" id="lastName" class="form-control form-control-sm" />
+                    </div>
+                    <div class="col-md-4">
+                        <label for="email">Email</label>
+                        <InputText @bind-Value="Input.Email" id="email" class="form-control" aria-required="true" />
+                    </div>
+                </div>
+                <div class="row mb-12">
+                    <div class="col-md-4">
+                        <label for="phoneNumber">Phone Number</label>
+                        <InputText @bind-Value="Input.PhoneNumber" id="phoneNumber" class="form-control form-control-sm" />
+                    </div>
+                    <div class="col-md-4">
+                        <label for="zipCode">Zip Code</label>
+                        <InputText @bind-Value="Input.ZipCode" id="zipCode" class="form-control form-control-sm" />
+                    </div>
+                    <div class="col-md-4 d-flex align-items-end">
+                        <button type="submit" class="btn btn-sm btn-primary" @onclick="FindCandidate">Search</button>
+                        <button type="reset" class="btn btn-sm btn-warning ms-2">Clear</button>
+                    </div>
+                </div>
+
+            </EditForm>
+        </div>
+
+        <hr />
+        @if (candidates == null)
+        {
+            <p><em>Loading...</em></p>
+        }
+        else
+        {
+
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>FullName</th>
+                        <th>Email</th>
+                        <th>PhoneNumber</th>
+                        <th>ZipCode</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var ca in candidates)
+                    {
+                        <tr>
+                            <td>@ca.Id</td>
+                            <td>@ca.FullName</td>
+                            <td>@ca.Email</td>
+                            <td>@ca.PhoneNumber</td>
+                            <td>@ca.ZipCode</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    </div>
+</div>
+
+@code {
+
+    [SupplyParameterFromForm]
+    private InputModel Input { get; set; } = new();
+
+    private CandidateDTO[]? candidates;
+
+    protected override async Task OnInitializedAsync()
+    {
+        candidates = await Http.GetFromJsonAsync<CandidateDTO[]>("https://localhost:5001/api/Candidate/GetCandidates");
+    }
+
+    private async Task FindCandidate()
+    {
+        await OnInitializedAsync();
+
+        var candidate = new CandidateDTO
+            {
+                FirstName = Input.FirstName,
+                LastName = Input.LastName,
+                Email = Input.Email,
+                PhoneNumber = Input.PhoneNumber,
+                ZipCode = Input.ZipCode
+            };
+        var response = await Http.PostAsJsonAsync("https://localhost:5001/api/Candidate/GetCandidatesByParams", candidate);
+        candidates = response.Content.ReadFromJsonAsync<CandidateDTO[]>().Result;
+    }
+
+    private void ClearTable()
+    {
+        candidates = null;
+    }
+
+    private sealed class InputModel
+    {
+        [Required]
+        [Display(Name = "FirstName")]
+        public string? FirstName { get; set; } = "";
+
+        [Required]
+        [Display(Name = "LastName")]
+        public string? LastName { get; set; } = "";
+
+        [Required]
+        [Display(Name = "PhoneNumber")]
+        public string? PhoneNumber { get; set; } = "";
+
+        [Required]
+        [StringLength(100, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]
+        [Display(Name = "ZipCode")]
+        public string? ZipCode { get; set; } = "";
+
+        [Required]
+        [EmailAddress]
+        [Display(Name = "Email")]
+        public string? Email { get; set; } = "";
+    }
+
+    private class CandidateDTO
+    {
+        public int Id { get; set; }
+        public string? FullName => $"{FirstName} {LastName}";
+        public string? FirstName { get; set; }
+        public string LastName { get; set; } = string.Empty;
+        public string? Email { get; set; }
+        public string? PhoneNumber { get; set; }
+        public string? ZipCode { get; set; }
+    }
+}
+

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cts-app.Server", "cts-app.Server\cts-app.Server.csproj", "{CA67C7F0-0D2C-42D5-9107-535C3B08855A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cts-app.Web", "cts-app.Web\cts-app.Web.csproj", "{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA67C7F0-0D2C-42D5-9107-535C3B08855A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA67C7F0-0D2C-42D5-9107-535C3B08855A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA67C7F0-0D2C-42D5-9107-535C3B08855A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA67C7F0-0D2C-42D5-9107-535C3B08855A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D9ABD59-A896-4DEA-97D8-AC3FA66E14FB}
+	EndGlobalSection
+EndGlobal
