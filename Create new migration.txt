@@ -1,0 +1,76 @@
+Each package is licensed to you by its owner. NuGet is not responsible for, nor does it grant any licenses to, third-party packages. Some packages may include dependencies which are governed by additional licenses. Follow the package source (feed) URL to determine any dependencies.
+
+Package Manager Console Host Version 6.11.0.119
+
+Type 'get-help NuGet' to see all available NuGet commands.
+
+PM> pwd
+
+Path                                                            
+----                                                            
+C:\Users\Serena Lu\Downloads\CTS-main\apiservice\cts-api\cts-api
+
+
+PM> dir
+
+
+    Directory: C:\Users\Serena Lu\Downloads\CTS-main\apiservice\cts-api\cts-api
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                   
+----                 -------------         ------ ----                                                                                                                   
+d-----         10/3/2024   5:08 PM                .vs                                                                                                                    
+d-----         10/3/2024   5:08 PM                bin                                                                                                                    
+d-----         10/3/2024   5:08 PM                Controllers                                                                                                            
+d-----         10/3/2024   5:14 PM                obj                                                                                                                    
+d-----         10/3/2024   5:08 PM                Properties                                                                                                             
+d-----         10/3/2024   5:08 PM                Services                                                                                                               
+-a----         10/3/2024   5:08 PM            119 appsettings.Development.json                                                                                           
+-a----         10/3/2024   5:08 PM            333 appsettings.json                                                                                                       
+-a----         10/3/2024   5:08 PM           1915 cts-api.csproj                                                                                                         
+-a----         10/3/2024   5:08 PM            602 cts-api.csproj.user                                                                                                    
+-a----         10/3/2024   5:08 PM            121 cts-api.http                                                                                                           
+-a----         10/3/2024   5:08 PM           1582 cts-api.sln                                                                                                            
+-a----         10/3/2024   5:08 PM           1674 Program.cs                                                                                                             
+
+
+PM> cd ..
+PM> dir
+
+
+    Directory: C:\Users\Serena Lu\Downloads\CTS-main\apiservice\cts-api
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                   
+----                 -------------         ------ ----                                                                                                                   
+d-----         10/3/2024   5:08 PM                cts-api                                                                                                                
+d-----         10/3/2024   5:08 PM                cts-app.Data                                                                                                           
+
+
+PM> cd cts-app.Data
+PM> dir
+
+
+    Directory: C:\Users\Serena Lu\Downloads\CTS-main\apiservice\cts-api\cts-app.Data
+
+
+Mode                 LastWriteTime         Length Name                                                                                                                   
+----                 -------------         ------ ----                                                                                                                   
+d-----         10/3/2024   5:08 PM                bin                                                                                                                    
+d-----         10/3/2024   5:08 PM                Data                                                                                                                   
+d-----         10/3/2024   5:14 PM                obj                                                                                                                    
+d-----         10/3/2024   5:08 PM                Properties                                                                                                             
+d-----         10/3/2024   5:08 PM                Scripts                                                                                                                
+d-----         10/3/2024   5:08 PM                wwwroot                                                                                                                
+-a----         10/3/2024   5:08 PM            119 appsettings.Development.json                                                                                           
+-a----         10/3/2024   5:08 PM            333 appsettings.json                                                                                                       
+-a----         10/3/2024   5:08 PM           1192 cts-app.Data.csproj                                                                                                    
+-a----         10/3/2024   5:08 PM            233 cts-app.Data.csproj.user                                                                                               
+-a----         10/3/2024   5:08 PM           1433 Program.cs                                                                                                             
+
+
+PM> Add-Migration "Initial4" -c "ApplicationDbContext"
+Build started...
+Build succeeded.
+To undo this action, use Remove-Migration.
+PM> 
