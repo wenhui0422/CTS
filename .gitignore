@@ -19,4 +19,9 @@ obj/Debug
 obj/Debug/net8.0
 bin/Debug/net8.0
 bin/Debug/net8.0/*.*
-/apiservice/cts-api/cts-api/obj/Debug/net8.0/cts-api.AssemblyInfoInputs.cache
+*.cache
+
+bin/
+obj/
+Debug/
+Release/
