@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\cts-app.Web.bundle.scp.css",
+      "Id": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\cts-app.Web.bundle.scp.css",
       "PackagePath": "staticwebassets\\cts-app.Web.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\wwwroot\\app.css",
+      "Id": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

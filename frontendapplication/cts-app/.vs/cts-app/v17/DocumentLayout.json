@@ -1,173 +1,173 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\",
+  "WorkspaceRootPath": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\pages\\searchcandidate.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\pages\\searchcandidate.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\pages\\searchcandidate.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\pages\\newcandidate.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\pages\\newcandidate.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\pages\\newcandidate.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\identityuseraccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\identityuseraccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\identityuseraccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\identityrevalidatingauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\identityrevalidatingauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\identityrevalidatingauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\identitycomponentsendpointroutebuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\identitycomponentsendpointroutebuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\identitycomponentsendpointroutebuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\shared\\managenavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\shared\\managenavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\shared\\managenavmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\shared\\externalloginpicker.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\shared\\externalloginpicker.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\shared\\externalloginpicker.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\resetpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\resetpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\resetpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\twofactorauthentication.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\twofactorauthentication.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\manage\\twofactorauthentication.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\setpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\setpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\manage\\setpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\resetauthenticator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\resetauthenticator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\manage\\resetauthenticator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\manage\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\generaterecoverycodes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\generaterecoverycodes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\manage\\generaterecoverycodes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\externallogins.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\externallogins.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\manage\\externallogins.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\enableauthenticator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\enableauthenticator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\manage\\enableauthenticator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\disable2fa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\disable2fa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\manage\\disable2fa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\deletepersonaldata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\deletepersonaldata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\manage\\deletepersonaldata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\changepassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\changepassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\manage\\changepassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\loginwithrecoverycode.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\loginwithrecoverycode.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\loginwithrecoverycode.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\loginwith2fa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\loginwith2fa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\loginwith2fa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\externallogin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\externallogin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\externallogin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\confirmemailchange.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\confirmemailchange.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\confirmemailchange.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\confirmemail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\confirmemail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\confirmemail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\resendemailconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\resendemailconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\resendemailconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\email.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\manage\\email.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\manage\\email.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\registerconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\registerconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\registerconfirmation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\pages\\forgotpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\pages\\forgotpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\pages\\forgotpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\components\\account\\identitynoopemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\components\\account\\identitynoopemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\components\\account\\identitynoopemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA67C7F0-0D2C-42D5-9107-535C3B08855A}|cts-app.Server\\cts-app.Server.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA67C7F0-0D2C-42D5-9107-535C3B08855A}|cts-app.Server\\cts-app.Server.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA67C7F0-0D2C-42D5-9107-535C3B08855A}|cts-app.Server\\cts-app.Server.csproj|solutionrelative:cts-app.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA67C7F0-0D2C-42D5-9107-535C3B08855A}|cts-app.Server\\cts-app.Server.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.server\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA67C7F0-0D2C-42D5-9107-535C3B08855A}|cts-app.Server\\cts-app.Server.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.server\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA67C7F0-0D2C-42D5-9107-535C3B08855A}|cts-app.Server\\cts-app.Server.csproj|solutionrelative:cts-app.server\\model\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA67C7F0-0D2C-42D5-9107-535C3B08855A}|cts-app.Server\\cts-app.Server.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.server\\model\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA67C7F0-0D2C-42D5-9107-535C3B08855A}|cts-app.Server\\cts-app.Server.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.server\\model\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA67C7F0-0D2C-42D5-9107-535C3B08855A}|cts-app.Server\\cts-app.Server.csproj|solutionrelative:cts-app.server\\model\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA67C7F0-0D2C-42D5-9107-535C3B08855A}|cts-app.Server\\cts-app.Server.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.server\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA67C7F0-0D2C-42D5-9107-535C3B08855A}|cts-app.Server\\cts-app.Server.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.server\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA67C7F0-0D2C-42D5-9107-535C3B08855A}|cts-app.Server\\cts-app.Server.csproj|solutionrelative:cts-app.server\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\serena lu\\source\\repos\\cts\\components\\cts-app\\cts-app.web\\cts-app.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|c:\\users\\fanwa\\documents\\applications\\ppi\\cts - delivery\\frontendapplication\\cts-app\\cts-app.web\\cts-app.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F1C03ACF-A80E-4018-B55E-D0E9BDB69CC5}|cts-app.Web\\cts-app.Web.csproj|solutionrelative:cts-app.web\\cts-app.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -178,15 +178,291 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 73,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:166:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:169:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:170:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:171:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:172:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:173:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:174:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:175:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:176:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:177:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:178:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:179:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:180:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:181:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "IdentityComponentsEndpointRouteBuilderExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\IdentityComponentsEndpointRouteBuilderExtensions.cs",
               "ViewState": "AgIAABEAAAAAAAAAAIA7wBkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -196,9 +472,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "IdentityRevalidatingAuthenticationStateProvider.cs",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\IdentityRevalidatingAuthenticationStateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\IdentityRevalidatingAuthenticationStateProvider.cs",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\IdentityRevalidatingAuthenticationStateProvider.cs",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\IdentityRevalidatingAuthenticationStateProvider.cs",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\IdentityRevalidatingAuthenticationStateProvider.cs",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\IdentityRevalidatingAuthenticationStateProvider.cs",
               "ViewState": "AgIAABEAAAAAAAAAAIA5wBgAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -208,9 +484,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "IdentityUserAccessor.cs",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\IdentityUserAccessor.cs",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\IdentityUserAccessor.cs",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\IdentityUserAccessor.cs",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\IdentityUserAccessor.cs",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\IdentityUserAccessor.cs",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\IdentityUserAccessor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -220,24 +496,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "NewCandidate.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Pages\\NewCandidate.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Pages\\NewCandidate.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Pages\\NewCandidate.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Pages\\NewCandidate.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Pages\\NewCandidate.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Pages\\NewCandidate.razor",
               "ViewState": "AgIAADcAAAAAAAAAAAApwEIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-29T04:24:41.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T04:24:41.493Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SearchCandidate.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Pages\\SearchCandidate.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Pages\\SearchCandidate.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Pages\\SearchCandidate.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Pages\\SearchCandidate.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Pages\\SearchCandidate.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Pages\\SearchCandidate.razor",
-              "ViewState": "AgIAADUAAAAAAAAAAAApwD8AAAAYAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-29T04:24:39.18Z",
               "EditorCaption": ""
@@ -246,22 +521,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Program.cs",
               "RelativeDocumentMoniker": "cts-app.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Program.cs",
               "RelativeToolTip": "cts-app.Web\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAApwBEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T04:17:49.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T04:17:49.87Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ManageNavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Shared\\ManageNavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Shared\\ManageNavMenu.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Shared\\ManageNavMenu.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Shared\\ManageNavMenu.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Shared\\ManageNavMenu.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Shared\\ManageNavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -271,9 +545,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ExternalLoginPicker.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Shared\\ExternalLoginPicker.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -283,9 +557,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ResetPassword.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ResetPassword.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ResetPassword.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\ResetPassword.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ResetPassword.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ResetPassword.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\ResetPassword.razor",
               "ViewState": "AgIAAAEAAAAAAAAAAAD4vwkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -295,9 +569,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "TwoFactorAuthentication.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\TwoFactorAuthentication.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\TwoFactorAuthentication.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\Manage\\TwoFactorAuthentication.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\TwoFactorAuthentication.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\TwoFactorAuthentication.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\Manage\\TwoFactorAuthentication.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -307,9 +581,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "SetPassword.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\SetPassword.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\SetPassword.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\Manage\\SetPassword.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\SetPassword.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\SetPassword.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\Manage\\SetPassword.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -319,9 +593,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "ResetAuthenticator.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\ResetAuthenticator.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\ResetAuthenticator.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\Manage\\ResetAuthenticator.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\ResetAuthenticator.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\ResetAuthenticator.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\Manage\\ResetAuthenticator.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -331,9 +605,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Index.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\Index.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\Manage\\Index.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\Index.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\Index.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\Manage\\Index.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -343,9 +617,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "GenerateRecoveryCodes.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\GenerateRecoveryCodes.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\GenerateRecoveryCodes.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\Manage\\GenerateRecoveryCodes.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\GenerateRecoveryCodes.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\GenerateRecoveryCodes.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\Manage\\GenerateRecoveryCodes.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -355,9 +629,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "ExternalLogins.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\ExternalLogins.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\ExternalLogins.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\Manage\\ExternalLogins.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\ExternalLogins.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\ExternalLogins.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\Manage\\ExternalLogins.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -367,9 +641,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "EnableAuthenticator.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\EnableAuthenticator.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\EnableAuthenticator.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\Manage\\EnableAuthenticator.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\EnableAuthenticator.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\EnableAuthenticator.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\Manage\\EnableAuthenticator.razor",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -379,9 +653,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Disable2fa.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\Disable2fa.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\Disable2fa.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\Manage\\Disable2fa.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\Disable2fa.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\Disable2fa.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\Manage\\Disable2fa.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -391,9 +665,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "DeletePersonalData.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\Manage\\DeletePersonalData.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -403,9 +677,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "ChangePassword.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\Manage\\ChangePassword.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -415,9 +689,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "LoginWithRecoveryCode.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\LoginWithRecoveryCode.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -427,9 +701,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "LoginWith2fa.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\LoginWith2fa.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\LoginWith2fa.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\LoginWith2fa.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\LoginWith2fa.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\LoginWith2fa.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\LoginWith2fa.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -439,9 +713,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "Login.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Login.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Login.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\Login.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Login.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\Login.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -451,9 +725,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "ExternalLogin.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ExternalLogin.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ExternalLogin.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\ExternalLogin.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ExternalLogin.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ExternalLogin.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\ExternalLogin.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -463,9 +737,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "ConfirmEmailChange.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ConfirmEmailChange.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ConfirmEmailChange.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\ConfirmEmailChange.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ConfirmEmailChange.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ConfirmEmailChange.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\ConfirmEmailChange.razor",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -475,9 +749,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "ConfirmEmail.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ConfirmEmail.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ConfirmEmail.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\ConfirmEmail.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ConfirmEmail.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ConfirmEmail.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\ConfirmEmail.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -487,9 +761,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\appsettings.json",
               "RelativeDocumentMoniker": "cts-app.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\appsettings.json",
               "RelativeToolTip": "cts-app.Web\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -499,9 +773,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "Routes.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Routes.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Routes.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Routes.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Routes.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Routes.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -511,9 +785,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\App.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\App.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\App.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\App.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -523,9 +797,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\_Imports.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -535,9 +809,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -547,9 +821,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "ResendEmailConfirmation.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ResendEmailConfirmation.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ResendEmailConfirmation.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\ResendEmailConfirmation.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ResendEmailConfirmation.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ResendEmailConfirmation.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\ResendEmailConfirmation.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -559,9 +833,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "RegisterConfirmation.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\RegisterConfirmation.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\RegisterConfirmation.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\RegisterConfirmation.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\RegisterConfirmation.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\RegisterConfirmation.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\RegisterConfirmation.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -571,9 +845,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "Register.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Register.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Register.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\Register.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Register.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Register.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\Register.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -583,9 +857,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Layout\\MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -595,9 +869,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "ForgotPassword.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ForgotPassword.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ForgotPassword.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\ForgotPassword.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ForgotPassword.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\ForgotPassword.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\ForgotPassword.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -607,9 +881,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "Email.razor",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\Email.razor",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\Email.razor",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\Pages\\Manage\\Email.razor",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\Email.razor",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\Pages\\Manage\\Email.razor",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\Pages\\Manage\\Email.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -619,9 +893,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "IdentityNoOpEmailSender.cs",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\IdentityNoOpEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\IdentityNoOpEmailSender.cs",
               "RelativeDocumentMoniker": "cts-app.Web\\Components\\Account\\IdentityNoOpEmailSender.cs",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\Components\\Account\\IdentityNoOpEmailSender.cs",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\Components\\Account\\IdentityNoOpEmailSender.cs",
               "RelativeToolTip": "cts-app.Web\\Components\\Account\\IdentityNoOpEmailSender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -631,9 +905,9 @@
               "$type": "Document",
               "DocumentIndex": 41,
               "Title": "cts-app.Web.csproj",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\cts-app.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\cts-app.Web.csproj",
               "RelativeDocumentMoniker": "cts-app.Web\\cts-app.Web.csproj",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\cts-app.Web.csproj",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\cts-app.Web.csproj",
               "RelativeToolTip": "cts-app.Web\\cts-app.Web.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -643,9 +917,9 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Server\\Model\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Server\\Model\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "cts-app.Server\\Model\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Server\\Model\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Server\\Model\\ApplicationDbContext.cs",
               "RelativeToolTip": "cts-app.Server\\Model\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -655,9 +929,9 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Server\\Model\\ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Server\\Model\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "cts-app.Server\\Model\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Server\\Model\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Server\\Model\\ApplicationUser.cs",
               "RelativeToolTip": "cts-app.Server\\Model\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -667,9 +941,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "Candidate.cs",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Server\\Model\\Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Server\\Model\\Candidate.cs",
               "RelativeDocumentMoniker": "cts-app.Server\\Model\\Candidate.cs",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Server\\Model\\Candidate.cs",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Server\\Model\\Candidate.cs",
               "RelativeToolTip": "cts-app.Server\\Model\\Candidate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -679,13 +953,31 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Server\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Server\\Program.cs",
               "RelativeDocumentMoniker": "cts-app.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Server\\Program.cs",
               "RelativeToolTip": "cts-app.Server\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T04:16:29.167Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 236,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

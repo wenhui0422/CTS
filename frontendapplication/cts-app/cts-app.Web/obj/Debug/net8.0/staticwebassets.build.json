@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "eM/iwx99e2SkOZ0rDmJQ2/Ltlmi9S0VNzHn4ZEaCUVw=",
+  "Hash": "dGIbyyh8M38DGD70VzSSlcEeIrfSLflYlAfFSxyhhY8=",
   "Source": "cts-app.Web",
   "BasePath": "_content/cts-app.Web",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Server\\cts-app.Server.csproj",
+      "Identity": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Server\\cts-app.Server.csproj",
       "Version": 2,
       "Source": "cts-app.Server",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -22,17 +22,17 @@
     {
       "Name": "cts-app.Web\\wwwroot",
       "Source": "cts-app.Web",
-      "ContentRoot": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\wwwroot\\",
       "BasePath": "_content/cts-app.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\cts-app.Web.styles.css",
+      "Identity": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\cts-app.Web.styles.css",
       "SourceId": "cts-app.Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/cts-app.Web",
       "RelativePath": "cts-app.Web.styles.css",
       "AssetKind": "All",
@@ -45,13 +45,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\cts-app.Web.styles.css"
+      "OriginalItemSpec": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\cts-app.Web.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\cts-app.Web.bundle.scp.css",
+      "Identity": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\cts-app.Web.bundle.scp.css",
       "SourceId": "cts-app.Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/cts-app.Web",
       "RelativePath": "cts-app.Web.bundle.scp.css",
       "AssetKind": "All",
@@ -64,13 +64,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\cts-app.Web.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\cts-app.Web.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\wwwroot\\app.css",
       "SourceId": "cts-app.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\wwwroot\\",
       "BasePath": "_content/cts-app.Web",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -86,10 +86,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "cts-app.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\wwwroot\\",
       "BasePath": "_content/cts-app.Web",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -105,10 +105,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "cts-app.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\wwwroot\\",
       "BasePath": "_content/cts-app.Web",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -124,10 +124,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\wwwroot\\favicon.png",
       "SourceId": "cts-app.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-app\\cts-app.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\frontendapplication\\cts-app\\cts-app.Web\\wwwroot\\",
       "BasePath": "_content/cts-app.Web",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

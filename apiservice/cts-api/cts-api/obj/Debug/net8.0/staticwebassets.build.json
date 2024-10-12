@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "odfiDikdj+Im/H6uQwyykTu38zz9T9ioV76gdMf/dMo=",
+  "Hash": "8JpTjxP5vFHuPe2+6ixPvVN3m24VXPIF0KaFPrXSVMk=",
   "Source": "cts-api",
   "BasePath": "_content/cts-api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-api\\cts-app.Data\\cts-app.Data.csproj",
+      "Identity": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\apiservice\\cts-api\\cts-app.Data\\cts-app.Data.csproj",
       "Version": 2,
       "Source": "cts-app.Data",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -22,17 +22,17 @@
     {
       "Name": "cts-app.Data\\wwwroot",
       "Source": "cts-app.Data",
-      "ContentRoot": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-api\\cts-app.Data\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\apiservice\\cts-api\\cts-app.Data\\wwwroot\\",
       "BasePath": "_content/cts-app.Data",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-api\\cts-app.Data\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\apiservice\\cts-api\\cts-app.Data\\wwwroot\\app.css",
       "SourceId": "cts-app.Data",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\Serena Lu\\source\\repos\\CTS\\components\\cts-api\\cts-app.Data\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\fanwa\\Documents\\applications\\PPI\\CTS - delivery\\apiservice\\cts-api\\cts-app.Data\\wwwroot\\",
       "BasePath": "_content/cts-app.Data",
       "RelativePath": "app.css",
       "AssetKind": "All",
