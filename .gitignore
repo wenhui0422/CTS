@@ -12,4 +12,7 @@
 *.suo
 .vs/cts-api/v17/.suo
 .vs/cts-app/v17/.suo
-/frontendapplication/cts-app/.vs/cts-app/v17/.suo
+
+.vs/cts-app/v17/.futdcache.v2
+bin/Debug
+/frontendapplication/cts-app/cts-app.Server/obj/Debug/net8.0/ref/cts-app.Server.dll
