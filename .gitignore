@@ -29,4 +29,5 @@ Release/
 */**/**/bin/Debug
 */**/**/bin/Debug
 #*/**/**/obj/Debug
-/frontendapplication/cts-app/cts-app.Server/bin/Debug/net8.0/cts-app.Server.dll
+/frontendapplication/cts-app/cts-app.Server/bin/Debug
+/apiservice/cts-api/cts-app.Data/obj/Debug/net8.0/ref/cts-app.Data.dll
