@@ -25,3 +25,7 @@ bin/
 obj/
 Debug/
 Release/
+*/apiservice/cts-api/cts-api/bin/Debug/net8
+*/**/**/bin/Debug
+*/**/**/bin/Debug
+#*/**/**/obj/Debug
