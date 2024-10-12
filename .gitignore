@@ -13,7 +13,7 @@
 .vs/cts-api/v17/.suo
 .vs/cts-app/v17/.suo
 
-
+obj/Debug/net8.0
 
 *.cache
 *.dll
