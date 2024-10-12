@@ -1,5 +1,8 @@
 ﻿@page "/newcandidate"
 @rendermode InteractiveServer
+@using Microsoft.Extensions.Options
+@inject IOptions<AppSettings> appSettings
+@using cts_app.Server.DTO
 @using System.ComponentModel.DataAnnotations
 @attribute [StreamRendering]
 @inject HttpClient Http
@@ -84,9 +87,18 @@
 
     private CandidateDTO[]? candidates;
 
+    private string apiBaseUrl
+    {
+        get
+        {
+            return appSettings.Value.ApiBaseUrl;
+        }
+    }
+
     protected override async Task OnInitializedAsync()
     {
-        candidates = await Http.GetFromJsonAsync<CandidateDTO[]>("https://localhost:5001/api/Candidate/GetCandidates");
+        candidates = await Http.GetFromJsonAsync<CandidateDTO[]>($"{apiBaseUrl}/Candidate/GetCandidates");
+        // candidates = await Http.GetFromJsonAsync<CandidateDTO[]>("https://localhost:5001/api/Candidate/GetCandidates");
     }
 
     public async Task AddNewCandidate(EditContext editContext)
@@ -100,9 +112,9 @@
                 ZipCode = Input.ZipCode
             };
 
-        var response = await Http.PostAsJsonAsync("https://localhost:5001/api/Candidate/CreateCandidate", candidate);
+        var response = await Http.PostAsJsonAsync($"{apiBaseUrl}/Candidate/CreateCandidate", candidate);
 
-        candidates = await Http.GetFromJsonAsync<CandidateDTO[]>("https://localhost:5001/api/Candidate/GetCandidates");
+        candidates = await Http.GetFromJsonAsync<CandidateDTO[]>($"{apiBaseUrl}/Candidate/GetCandidates");
     }
 
     private void ClearTable()
@@ -133,17 +145,6 @@
         [EmailAddress]
         [Display(Name = "Email")]
         public string? Email { get; set; } = "";
-    }
-
-    private class CandidateDTO
-    {
-        public int Id { get; set; }
-        public string? FullName => $"{FirstName} {LastName}";
-        public string? FirstName { get; set; }
-        public string LastName { get; set; } = string.Empty;
-        public string? Email { get; set; }
-        public string? PhoneNumber { get; set; }
-        public string? ZipCode { get; set; }
     }
 }
 

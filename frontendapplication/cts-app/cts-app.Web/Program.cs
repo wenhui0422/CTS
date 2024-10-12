@@ -1,4 +1,5 @@
 using cts_app.Server.Model;
+using cts_app.Web;
 using cts_app.Web.Components;
 using cts_app.Web.Components.Account;
 using Microsoft.AspNetCore.Components.Authorization;
@@ -14,9 +15,10 @@ builder.Services.AddRazorComponents()
 // Access appsettings.json via Configuration
 var configuration = builder.Configuration;
 
+builder.Services.Configure<AppSettings>(builder.Configuration.GetSection("AppSettings"));
+
 // Example of reading settings from appsettings.json
 var baseAddress = configuration["AppSettings:BaseUrl"];
-
 // Register HttpClient with the ApiBaseUrl from appsettings.json
 builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(baseAddress) });
 

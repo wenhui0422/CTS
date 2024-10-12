@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cts-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26a7bd946dd8f68c0bcc710301058b6688cd2b3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("cts-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cts-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
