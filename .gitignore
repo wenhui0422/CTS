@@ -15,4 +15,5 @@
 
 .vs/cts-app/v17/.futdcache.v2
 bin/Debug
-/frontendapplication/cts-app/cts-app.Server/obj/Debug/net8.0/ref/cts-app.Server.dll
+obj/Debug
+/frontendapplication/cts-app/cts-app.Web/obj/Debug/net8.0/ref/cts-app.Web.dll
