@@ -17,4 +17,5 @@
 bin/Debug
 obj/Debug
 obj/Debug/net8.0
-/frontendapplication/cts-app/cts-app.Web/bin/Debug/net8.0/cts-app.Server.dll
+bin/Debug/net8.0
+bin/Debug/net8.0/*.*
