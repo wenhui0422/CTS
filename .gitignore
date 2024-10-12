@@ -4,24 +4,12 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # User-specific files
-#.vs/cts-app/v17/.suo
-#.vs/cts-app/v17/.futdcache.v2
-#.vs/ProjectEvaluation
-#/FileContentIndex/
-
-#/apiservice/cts-api/cts-app.Data/obj/Debug/net8.0
 *.vsidx
 *.dll
 *.bin
-/.gitignore
 *.json
-*.dll
-#/bin/Debug/net8
-#/obj/Debug/net8
-.vs/cts-api/v17/.suo
 *.v2
-[Dd]ebug/
-[Bb]in/
-[Oo]bj/
-/frontendapplication/cts-app/cts-app.Server/obj/Debug/net8.0/refint/cts-app.Server.dll
-/apiservice/cts-api/cts-api/.vs/cts-api/v17/.suo
+*.suo
+.vs/cts-api/v17/.suo
+.vs/cts-app/v17/.suo
+/frontendapplication/cts-app/.vs/cts-app/v17/.suo
