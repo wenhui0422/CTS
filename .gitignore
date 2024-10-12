@@ -29,3 +29,4 @@ Release/
 */**/**/bin/Debug
 */**/**/bin/Debug
 #*/**/**/obj/Debug
+/frontendapplication/cts-app/cts-app.Server/bin/Debug/net8.0/cts-app.Server.dll
