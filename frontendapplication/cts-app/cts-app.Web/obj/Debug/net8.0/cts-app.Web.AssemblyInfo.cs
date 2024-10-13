@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cts-app.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+245955470ebf8c2358d8988fb3f320443a9fd8b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c812797d81d99d670fffda877dbea6a01d6e336")]
 [assembly: System.Reflection.AssemblyProductAttribute("cts-app.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cts-app.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

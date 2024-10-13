@@ -29,6 +29,10 @@ obj/Debug/net8.0
 /apiservice/cts-api/cts-app.Data/bin/Debug/net8.0
 /apiservice/cts-api/cts-app.Data/obj/Debug/net8.0
 
-obj/Debug/net8.0
-bin/Debug/net8.0
+cts-app.Server/obj/Debug/net8.0
+cts-app.Server/bin/Debug/net8.0
+
+cts-app.Web/obj/Debug/net8.0
+#cts-app.Web/obj/Debug/net8.0/refint/cts-app.Web.dll
+cts-app.Web/bin/Debug/net8.0
 .gitignore
