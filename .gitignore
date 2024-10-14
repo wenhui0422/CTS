@@ -21,3 +21,7 @@ Release/
 /apiservice/cts-api/cts-api/bin/Debug/net8.0/cts-api.dll
 /apiservice/cts-api/cts-api/bin/Debug/net8.0/cts-api.exe
 /apiservice/cts-api/cts-api/bin/Debug/net8.0/cts-app.*
+
+/frontendapplication/cts-app/cts-app.Server/obj/Debug
+/frontendapplication/cts-app/cts-app.Web/bin/Debug
+/frontendapplication/cts-app/cts-app.Web/obj/Debug
