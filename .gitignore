@@ -23,5 +23,6 @@ Release/
 /apiservice/cts-api/cts-api/bin/Debug/net8.0/cts-app.*
 
 /frontendapplication/cts-app/cts-app.Server/obj/Debug
-/frontendapplication/cts-app/cts-app.Web/bin/Debug/net8.0/cts-app.*
+/frontendapplication/cts-app/cts-app.Web/bin/Debug/net8.0/cts-app.Server.*
 /frontendapplication/cts-app/cts-app.Web/obj/Debug/net8.0/cts-app.*
+
