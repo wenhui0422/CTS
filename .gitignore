@@ -4,37 +4,20 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # User-specific files
-*.vsidx
-*.dll
-*.bin
-*.json
-*.v2
-*.suo
-.vs/cts-api/v17
-.vs/cts-app/v17
-
-obj/Debug/net8.0
-
+.vs/cts-app/v17/.futdcache.v2
+bin/Debug
+obj/Debug
 *.cache
-*.dll
-*.exe
-*.pdb
-*.user
 
-
-
-*.gitignore
-/apiservice/cts-api/cts-api/obj/Debug/net8.0
-/apiservice/cts-api/cts-api/.vs/cts-api/v17/DocumentLayout.json
-/apiservice/cts-api/cts-app.Data/bin/Debug/net8.0
-/apiservice/cts-api/cts-app.Data/obj/Debug/net8.0
-
-cts-app.Server/obj/Debug/net8.0
-cts-app.Server/bin/Debug/net8.0
-
-cts-app.Web/obj/Debug/net8.0/*.*
-.gitignore
-/frontendapplication/cts-app/.vs/cts-app/v17/DocumentLayout.json
-/frontendapplication/cts-app/cts-app.Server/obj/Debug/net8.0/ref/cts-app.Server.dll
-/frontendapplication/cts-app/.vs/cts-app/DesignTimeBuild/.dtbcache.v2
-/frontendapplication/cts-app/cts-app.Web/obj/Debug/net8.0/cts-app.Web.AssemblyInfo.cs
+bin/
+obj/
+Debug/
+Release/
+*/apiservice/cts-api/cts-api/bin/Debug/net8
+*/**/**/bin/Debug
+/frontendapplication/cts-app/cts-app.Server/bin/Debug
+/apiservice/cts-api/cts-app.Data/obj/Debug
+/apiservice/cts-api/cts-app/obj/Debug/net8.0/cts-app.pdb
+/apiservice/cts-api/cts-api/bin/Debug/net8.0/cts-api.dll
+/apiservice/cts-api/cts-api/bin/Debug/net8.0/cts-api.exe
+/apiservice/cts-api/cts-api/bin/Debug/net8.0/cts-app.*
