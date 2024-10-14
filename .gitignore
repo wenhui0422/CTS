@@ -36,3 +36,6 @@ cts-app.Web/obj/Debug/net8.0
 #cts-app.Web/obj/Debug/net8.0/refint/cts-app.Web.dll
 cts-app.Web/bin/Debug/net8.0
 .gitignore
+/frontendapplication/cts-app/.vs/cts-app/v17/DocumentLayout.json
+/frontendapplication/cts-app/cts-app.Server/obj/Debug/net8.0/ref/cts-app.Server.dll
+/frontendapplication/cts-app/.vs/cts-app/DesignTimeBuild/.dtbcache.v2
